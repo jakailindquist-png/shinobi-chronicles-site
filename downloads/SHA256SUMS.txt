@@ -1,0 +1,3 @@
+cc0ad1c4e4dafa26620fd38429695568bf39495a1d822e15c85453a8743dfe16  Shinobi-Chronicles-0.1.0.mrpack
+91b95cc1eb78229d22fc74eff30d8cd86416a6b729ca935e0a8d67b07ab53be5  Shinobi-Chronicles-0.1.0-Windows.zip
+99491d38dda9bf44992a30b303fa19f6ba3a94267de7ef81395ec98e5e58d76b  shinobi-chronicles-0.1.0.jar
